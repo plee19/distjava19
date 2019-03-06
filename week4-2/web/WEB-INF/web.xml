@@ -4,11 +4,44 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
     <servlet>
+        <servlet-name>home</servlet-name>
+        <servlet-class>us.plee19.controllers.HomeController</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>home</servlet-name>
+        <url-pattern>/index.jsp</url-pattern>
+    </servlet-mapping>
+    <servlet>
         <servlet-name>InventoryController</servlet-name>
         <servlet-class>us.plee19.controllers.InventoryController</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>InventoryController</servlet-name>
-        <url-pattern>/InventoryController</url-pattern>
+        <url-pattern>/cat.go</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>cartPlace</servlet-name>
+        <servlet-class>us.plee19.controllers.CartPlaceController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>cartPlace</servlet-name>
+        <url-pattern>/cartplace.go</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>cart</servlet-name>
+        <servlet-class>us.plee19.controllers.CartController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>cart</servlet-name>
+        <url-pattern>/cart.go</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>bill</servlet-name>
+        <servlet-class>us.plee19.controllers.BillController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>bill</servlet-name>
+        <url-pattern>/bill.go</url-pattern>
     </servlet-mapping>
 </web-app>

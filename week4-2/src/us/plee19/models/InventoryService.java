@@ -15,4 +15,15 @@ public class InventoryService {
     );
 
     public List<Product> getAllProducts() { return productList; }
+
+    public Product getSingleProduct(int productNum) {
+        Product product = null;
+
+        for(Product i: productList) {
+            if (i.getId() == productNum) {
+                return i;
+            }
+        }
+        return product;
+    }
 }
