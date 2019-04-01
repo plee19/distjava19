@@ -10,6 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.net.URLEncoder;
 
 @WebServlet(name = "InventoryController")
 public class InventoryController extends HttpServlet {
@@ -37,10 +38,12 @@ public class InventoryController extends HttpServlet {
         out.println("<html><body><table><tr><th>Product ID</th><th>Product Name</th><th>Price</th></tr>");
 
 
+
         InventoryService inventory = new InventoryService();
         for (Product p : inventory.getAllProducts()
         ) {
             out.println("<tr><td>" + p.getId() + "</td><td>" + p.getName() + "</td><td>" + p.getPrice() + "</td></tr>");
+            out.print("href=\"DeleteController?product=" + URLEncoder.encode(p.getName(),"UTF-8") + "\">Remove");
         }
 
         out.println("</body></html>");
