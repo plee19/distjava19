@@ -51,7 +51,7 @@ public class BillController extends HttpServlet {
         InventoryService inventoryService = new InventoryService();
         String[] nums = productsNumbers.split(",");
         for (int i=0;i<nums.length;i++) {
-            items.add(inventoryService.getSingleProduct(Integer.parseInt(nums[i])));
+            //items.add(inventoryService.getSingleProduct(Integer.parseInt(nums[i])));
         }
         return items;
     }

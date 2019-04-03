@@ -39,12 +39,12 @@ public class CatalogController extends HttpServlet {
 
 
         // Always a good idea to trim and/or validate input data
-        List<Product> result = shop.getAllProducts();
+        //List<Product> result = shop.getAllProducts();
 
         // Parameters are read only Request object properties, but attributes
         // are read/write. We can use attributes to store data for use on
         // another page.
-        request.setAttribute("catalog", result);
+        //request.setAttribute("catalog", result);
 
         // This object lets you forward both the request and response
         // objects to a destination page

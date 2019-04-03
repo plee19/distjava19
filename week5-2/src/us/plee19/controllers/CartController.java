@@ -51,7 +51,7 @@ public class CartController extends HttpServlet {
         InventoryService inventoryService = new InventoryService();
         String[] nums = productsNumbers.split(",");
         for (int i=0;i<nums.length;i++) {
-            products.add(inventoryService.getSingleProduct(Integer.parseInt(nums[i])));
+            //products.add(inventoryService.getSingleProduct(Integer.parseInt(nums[i])));
         }
         return products;
     }
