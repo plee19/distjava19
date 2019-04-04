@@ -7,21 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efcc38bd-5c59-4536-beb3-ea26f4b4b07c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/distjava19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/distjava19.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/derby.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/derby.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/controllers/BillController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/controllers/BillController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/controllers/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/controllers/CartController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/controllers/CatalogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/controllers/CatalogController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/controllers/InventoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/controllers/InventoryController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/models/InventoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/models/InventoryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/BillController.class" beforeDir="false" afterPath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/BillController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/CartController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/CatalogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/CatalogController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/InventoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/InventoryController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/models/InventoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/models/InventoryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5-2/src/us/plee19/controllers/BillController.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5-2/src/us/plee19/controllers/BillController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5-2/src/us/plee19/controllers/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5-2/src/us/plee19/controllers/CartController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5-2/src/us/plee19/controllers/CatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5-2/src/us/plee19/controllers/CatalogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/META-INF/distjava19.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/BillController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/CartController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/CartPlaceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/CatalogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/controllers/InventoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/models/InventoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/out/production/distjava19/us/plee19/models/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/web/bill.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/web/cart.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/web/catalog.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/web/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5-2/web/store.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,15 +34,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week5-2/web/cart.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week5-2/src/us/plee19/controllers/CatalogController.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,8 +46,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week5-2/web/WEB-INF/web.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/IdeaProjects/lab5b-b/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
@@ -61,29 +55,40 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week5-2/week5-2.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+            <state relative-caret-position="119">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week5-2/web/home.jsp">
+        <entry file="file://$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/controllers/InventoryController.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-306">
+              <folding>
+                <element signature="e#0#4002#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/IdeaProjects/lab5b-b/web/home.jsp">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week5-2/web/catalog.jsp">
+        <entry file="file://$USER_HOME$/IdeaProjects/lab5b-b/web/catalog.jsp">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week5-2/src/us/plee19/controllers/InventoryController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="204">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
@@ -163,15 +168,15 @@
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="741" />
-    <option name="y" value="38" />
-    <option name="width" value="814" />
-    <option name="height" value="867" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -179,7 +184,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -203,20 +207,28 @@
               <item name="distjava19" type="b2602c69:ProjectViewProjectNode" />
               <item name="distjava19" type="462c0819:PsiDirectoryNode" />
               <item name="week5-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plee19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distjava19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distjava19" type="462c0819:PsiDirectoryNode" />
+              <item name="week5-2" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554137075349" />
-    <property name="last_opened_file_path" value="C:/Program Files/glassfish5/javadb/lib/derbytools.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554337034284" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaDBTest" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -247,7 +259,7 @@
         <option name="COMPATIBILITY" value="false" />
         <option name="VIRTUAL_SERVER" />
         <option name="USERNAME" value="admin" />
-        <option name="CREDENTIAL_ALIAS" />
+        <option name="PASSWORD" value="" />
       </server-settings>
       <predefined_log_file enabled="true" id="GlassFish" />
       <RunnerSettings RunnerId="Debug">
@@ -306,7 +318,6 @@
       </method>
     </configuration>
     <configuration default="true" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 4.1.1" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/distjava19_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="distjava19:war exploded">
@@ -319,6 +330,7 @@
         <option name="COMPATIBILITY" value="false" />
         <option name="VIRTUAL_SERVER" />
         <option name="USERNAME" value="admin" />
+        <option name="PASSWORD" value="" />
       </server-settings>
       <predefined_log_file enabled="true" id="GlassFish" />
       <RunnerSettings RunnerId="Debug">
@@ -397,11 +409,12 @@
       <workItem from="1554135415118" duration="1814000" />
       <workItem from="1554332099627" duration="937000" />
       <workItem from="1554333668587" duration="297000" />
+      <workItem from="1554335902115" duration="1196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21882000" />
+    <option name="totallyTimeSpent" value="23078000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,9 +426,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21786633" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32928804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -425,13 +438,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919093" weight="0.32871974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5008091" side_tool="true" visible="true" weight="0.32871974" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Application Servers" order="11" weight="0.32974428" />
@@ -599,14 +612,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week5-2/web/bill.jsp">
+    <entry file="file://$USER_HOME$/IdeaProjects/lab5b-b/web/bill.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week5-2/web/cart.jsp">
+    <entry file="file://$USER_HOME$/IdeaProjects/lab5b-b/web/cart.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
@@ -623,18 +636,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week5-2/web/home.jsp">
+    <entry file="file://$USER_HOME$/IdeaProjects/lab5b-b/web/home.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/week5-2/web/catalog.jsp">
+    <entry file="file://$USER_HOME$/IdeaProjects/lab5b-b/web/catalog.jsp">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week5-2/src/us/plee19/controllers/InventoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week5-2/src/us/plee19/models/Product.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -657,17 +663,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week5-2/web/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/week5-2/week5-2.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week5-2/week5-2.iml">
+    <entry file="file://$PROJECT_DIR$/out/artifacts/distjava19_war_exploded/WEB-INF/classes/us/plee19/controllers/InventoryController.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        <state relative-caret-position="-306">
+          <folding>
+            <element signature="e#0#4002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5-2/src/us/plee19/controllers/InventoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/IdeaProjects/lab5b-b/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -682,6 +704,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -689,7 +712,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web (distjava19)|Invalid</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
